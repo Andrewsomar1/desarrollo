@@ -1,5 +1,0 @@
-Segundo archivo de prueba de Git
-
-texto secundario
-
-texto tres
